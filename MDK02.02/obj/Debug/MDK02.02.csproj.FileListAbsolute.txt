@@ -1,0 +1,7 @@
+G:\MDK02.02\MDK02.02\bin\Debug\MDK02.02.exe.config
+G:\MDK02.02\MDK02.02\bin\Debug\MDK02.02.exe
+G:\MDK02.02\MDK02.02\bin\Debug\MDK02.02.pdb
+G:\MDK02.02\MDK02.02\obj\Debug\MDK02.02.csproj.AssemblyReference.cache
+G:\MDK02.02\MDK02.02\obj\Debug\MDK02.02.csproj.CoreCompileInputs.cache
+G:\MDK02.02\MDK02.02\obj\Debug\MDK02.02.exe
+G:\MDK02.02\MDK02.02\obj\Debug\MDK02.02.pdb
