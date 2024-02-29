@@ -28,6 +28,26 @@ namespace MDK02._02
                 Console.Write("Попытка №" + (attempts + 1) + ". Введите ваше предположение: ");
                 guess = Convert.ToInt32(Console.ReadLine());
                 attempts++;
+
+                CheckGuess(guess, zagadannoeChislo);
+               
+            }
+
+
+        }
+        //Написал метод, который отвечает за проверку условия на загаданное число.
+        static void CheckGuess(int guess, int zagadannoeChislo)
+        {
+            //Цикл с условием, который сравнивает попытку с загаданным числом.
+            if (guess < zagadannoeChislo)
+            {
+                //Вывод на экран пользователя сообщение если он вписывает число меньше загаданного.
+                Console.WriteLine("Загаданное число больше.");
+            }
+            else if (guess > zagadannoeChislo)
+            {
+                //Вывод на экран пользователя сообщение если он вписывает число больше загаданного.
+                Console.WriteLine("Загаданное число меньше.");
             }
         }
     }
