@@ -5,3 +5,11 @@ G:\MDK02.02\MDK02.02\obj\Debug\MDK02.02.csproj.AssemblyReference.cache
 G:\MDK02.02\MDK02.02\obj\Debug\MDK02.02.csproj.CoreCompileInputs.cache
 G:\MDK02.02\MDK02.02\obj\Debug\MDK02.02.exe
 G:\MDK02.02\MDK02.02\obj\Debug\MDK02.02.pdb
+O:\2ИС\Григорьева Е.А\проект\MDK02.02\MDK02.02\bin\Debug\MDK02.02.exe.config
+O:\2ИС\Григорьева Е.А\проект\MDK02.02\MDK02.02\bin\Debug\MDK02.02.exe
+O:\2ИС\Григорьева Е.А\проект\MDK02.02\MDK02.02\bin\Debug\MDK02.02.pdb
+O:\2ИС\Григорьева Е.А\проект\MDK02.02\MDK02.02\obj\Debug\MDK02.02.csproj.AssemblyReference.cache
+O:\2ИС\Григорьева Е.А\проект\MDK02.02\MDK02.02\obj\Debug\MDK02.02.csproj.SuggestedBindingRedirects.cache
+O:\2ИС\Григорьева Е.А\проект\MDK02.02\MDK02.02\obj\Debug\MDK02.02.csproj.CoreCompileInputs.cache
+O:\2ИС\Григорьева Е.А\проект\MDK02.02\MDK02.02\obj\Debug\MDK02.02.exe
+O:\2ИС\Григорьева Е.А\проект\MDK02.02\MDK02.02\obj\Debug\MDK02.02.pdb

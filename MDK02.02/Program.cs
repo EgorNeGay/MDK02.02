@@ -32,7 +32,7 @@ namespace MDK02._02
                 CheckGuess(guess, zagadannoeChislo);
                
             }
-
+            DisplayResult(guess,zagadannoeChislo);
 
         }
         //Написал метод, который отвечает за проверку условия на загаданное число.
@@ -49,6 +49,23 @@ namespace MDK02._02
                 //Вывод на экран пользователя сообщение если он вписывает число больше загаданного.
                 Console.WriteLine("Загаданное число меньше.");
             }
+
+        }
+
+        // Метод, который выводит сообщение пользователю о выйгрыше/проигрыше.
+        static void DisplayResult(int guess, int zagadannoeChislo)
+        {
+            // Задание условия, в котором сравнивается попытка с загаданным числом. 
+            if (guess == zagadannoeChislo)//Если число пользователя совпадает с загаданным числом, то вывод на экран сообщения:
+            {
+                Console.WriteLine("Поздравляем! Вы угадали число " + zagadannoeChislo);
+            }
+            else//В противном случае вывести:
+            {
+                Console.WriteLine("Вы использовали все попытки. Было загадано число " + zagadannoeChislo);
+            }
         }
     }
+
 }
+
